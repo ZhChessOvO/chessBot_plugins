@@ -1,0 +1,5 @@
+flower_puzzle_draw: "抽一道花谜【{puzzle}】，不知{nick}可否答的上来？"
+flower_puzzle_draw_already: "尚有花谜未解，{nick}可别急抽新的×"
+flower_puzzle_correct: "正是{answer}，{nick}回答正确√"
+flower_puzzle_error: "不是{answer}，{nick}再想想吧×"
+flower_puzzle_answer: "花谜的答案是{answer}哦，{nick}还需要学习呢"
